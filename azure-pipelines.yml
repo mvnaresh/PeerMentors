@@ -44,7 +44,7 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 
-- script: python "sam.py"
+- script: python "sample.py"
 
 
 
